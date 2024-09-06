@@ -1,0 +1,16 @@
+.bg-color {
+    background-color: rgb(202, 245, 229);
+}
+
+.product-item {
+    overflow: hidden;
+}
+
+.product-item img {
+    transition: .3s linear;
+    cursor: pointer;
+}
+
+.product-item img:hover {
+    transform: scale(1.5);
+}
